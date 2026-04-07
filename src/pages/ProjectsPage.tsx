@@ -7,9 +7,6 @@ type Category = 'all' | Project['category'];
 
 const CATEGORIES: { value: Category; label: string }[] = [
   { value: 'all', label: 'Tất Cả' },
-  { value: 'architecture', label: 'Kiến Trúc' },
-  { value: 'interior', label: 'Nội Thất' },
-  { value: 'landscape', label: 'Cảnh Quan' },
 ];
 
 export default function ProjectsPage() {

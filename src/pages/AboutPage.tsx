@@ -29,14 +29,13 @@ export default function AboutPage() {
           We design spaces<br />that tell stories.
         </h1>
         <p className="text-stone-600 leading-relaxed text-base mb-4">
-          DEF Design Studio is a multidisciplinary practice based in Bao Loc, Lam Dong Province, Vietnam. Founded in 2018, we work across architecture, interior design and Furniture to create environments that are deeply rooted in their context, culture and climate.
+          Với hơn 10 năm kinh nghiệm trong lĩnh vực thiết kế và thi công nội thất, ORANGE MOON DECOR tự hào là đơn vị mang đến giải pháp không gian sống và làm việc tối ưu - nơi thẩm mỹ hòa quyện cùng công năng. Chúng tôi chuyên cung cấp dịch vụ thiết kế, thi công nội thất trọn gói cho nhà phố, căn hộ, biệt thự, showroom, văn phòng… theo yêu cầu riêng biệt của từng khách hàng.
         </p>
         <p className="text-stone-600 leading-relaxed text-base mb-4">
-          Our process is collaborative and detail-driven. We believe that great design emerges from listening — to our clients, to the Furniture, to the materials we work with. Every project, regardless of scale, is approached with the same rigour and care.
+          Chúng tôi luôn đặt uy tín - chất lượng - tiến độ lên hàng đầu, cam kết sử dụng vật liệu chính hãng, thi công đúng bản vẽ và bảo hành công trình dài hạn. Đội ngũ kiến trúc sư, kỹ sư và thợ lành nghề tại Phan Dũng không ngừng sáng tạo, cập nhật xu hướng để mang đến không gian sống tinh tế, hiện đại và tiện nghi.
         </p>
         <p className="text-stone-600 leading-relaxed text-base">
-          From intimate residential interiors to large-scale public architecture, we are committed to crafting work that improves lives, enriches communities and stands the test of time.
-        </p>
+         Hãy để ORANGE MOON DECOR đồng hành cùng bạn kiến tạo tổ ấm - nơi mỗi chi tiết đều phản ánh cá tính và phong cách sống riêng của gia chủ.</p>
       </section>
 
       {/* Values */}
