@@ -44,7 +44,7 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50">
       {/* Top contact + social bar */}
-      <div className="bg-zinc-900 text-stone-400 text-xs py-2.5">
+      {/* <div className="bg-zinc-900 text-stone-400 text-xs py-2.5">
         <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
           <div className="flex flex-wrap gap-x-6 gap-y-1 items-center">
             <span className="flex items-center gap-1.5">
@@ -75,7 +75,7 @@ export default function Header() {
             </a>
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* Main nav */}
       <nav className="bg-zinc-800/95 backdrop-blur">
