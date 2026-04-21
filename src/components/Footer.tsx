@@ -23,7 +23,7 @@ export default function Footer() {
           <p className="text-xs tracking-[0.3em] uppercase text-stone-500 mb-4">ORANGE MOON DECOR</p>
           <p className="text-sm leading-relaxed">
             Architecture · Interior · Furniture<br />
-            Based in Lam Dong, Vietnam.
+            Based in Daklak, Vietnam.
           </p>
         </div>
 

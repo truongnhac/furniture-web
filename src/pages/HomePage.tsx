@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-const HERO_IMAGE = 'https://images.unsplash.com/photo-1505409859467-3a796fd5798e?w=1920&q=80';
+const HERO_IMAGE = '/257486186297481618337.jpg';
 
 function DefLogoMark() {
   return (
@@ -42,9 +42,17 @@ export default function HomePage() {
 
       {/* Content */}
       <div className="relative z-10 flex flex-col items-center text-center px-6">
-        <DefLogoMark />
+       <div className="flex items-center justify-center gap-6">
+ 
+ <img
+  src="/LOGO-removebg-preview.png"
+  alt="Orange Moon Logo"
+   className="w-70 h-70 object-contain bg-transparent"
+/>
 
-        <div className="mt-5">
+</div>
+
+        <div className="mt-1">
           <p className="text-4xl md:text-5xl text-white font-light tracking-wide">
             <span className="font-bold">ORANGE MOON DECOR</span>
           </p>
