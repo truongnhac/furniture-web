@@ -52,11 +52,11 @@ export default function HomePage() {
 </div>
 
         <div className="mt-0">
-          <p className="text-4xl md:text-4xl text-white font-light tracking-wide">
+          <p className="text-2xl md:text-2xl text-white font-light tracking-wide">
             <span className="font-bold">ORANGE MOON DECOR</span>
           </p>
           <p className="text-sm tracking-[0.25em] text-stone-300 mt-2">
-            architecture | interior | Furniture
+            Architecture | Interior | Furniture
           </p>
         </div>
 
