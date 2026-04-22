@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-const HERO_IMAGE = '/257486186297481618337.jpg';
+const HERO_IMAGE = '/anhbia.jpg';
 
 function DefLogoMark() {
   return (
@@ -45,15 +45,14 @@ export default function HomePage() {
        <div className="flex items-center justify-center gap-6">
  
  <img
-  src="/LOGO-removebg-preview.png"
+  src="/LOGO trang.png"
   alt="Orange Moon Logo"
    className="w-70 h-70 object-contain bg-transparent"
 />
-
 </div>
 
-        <div className="mt-1">
-          <p className="text-4xl md:text-5xl text-white font-light tracking-wide">
+        <div className="mt-0">
+          <p className="text-4xl md:text-4xl text-white font-light tracking-wide">
             <span className="font-bold">ORANGE MOON DECOR</span>
           </p>
           <p className="text-sm tracking-[0.25em] text-stone-300 mt-2">
