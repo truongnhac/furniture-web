@@ -19,7 +19,11 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-3 gap-12">
         {/* Brand */}
         <div>
-          <p className="text-2xl font-bold tracking-widest text-white uppercase mb-2">OMD</p>
+           <img
+  src="/LOGO trang.png"
+  alt="Orange Moon Logo"
+   className="w-30 h-30 object-contain bg-transparent"
+/>
           <p className="text-xs tracking-[0.3em] uppercase text-stone-500 mb-4">ORANGE MOON DECOR</p>
           <p className="text-sm leading-relaxed">
             Architecture · Interior · Furniture<br />
