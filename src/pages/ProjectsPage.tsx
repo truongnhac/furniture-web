@@ -20,9 +20,6 @@ export default function ProjectsPage() {
         <p className="text-xs tracking-[0.4em] uppercase text-stone-400 mb-3">
           architecture · interior · furniture
         </p>
-        <h1 className="text-4xl md:text-6xl font-light text-stone-900 leading-tight max-w-2xl">
-          Dự Án
-        </h1>
       </section>
 
       {/* Filter tabs */}

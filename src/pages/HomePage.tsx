@@ -52,20 +52,28 @@ export default function HomePage() {
 </div>
 
         <div className="mt-0">
-          <p className="text-2xl md:text-2xl text-white font-light tracking-wide">
-            <span className="font-bold">ORANGE MOON DECOR</span>
+          <p className="text-4xl md:text-4xl text-white font-light tracking-wide">
+            <span className="font-bold">ORANGE MOON </span>
           </p>
           <p className="text-sm tracking-[0.25em] text-stone-300 mt-2">
             Architecture | Interior | Furniture
           </p>
         </div>
+        <div className="mt-2 flex gap-1 w-full max-w-md">
+  <Link
+    to="/projects"
+    className="w-full text-center px-8 py-3.5 bg-white text-stone-900 text-sm font-medium tracking-widest rounded-full hover:bg-stone-100 transition-colors duration-200"
+  >
+    Dự Án
+  </Link>
 
-        <Link
-          to="/projects"
-          className="mt-10 px-8 py-3.5 bg-white text-stone-900 text-sm font-medium tracking-widest rounded-full hover:bg-stone-100 transition-colors duration-200"
-        >
-          Xem Dự Án
-        </Link>
+  <Link
+    to="/products"
+    className="w-full text-center px-8 py-3.5 bg-white text-stone-900 text-sm font-medium tracking-widest rounded-full hover:bg-stone-100 transition-colors duration-200"
+  >
+    Sản Phẩm
+  </Link>
+</div>
       </div>
 
       {/* Down arrow */}

@@ -94,8 +94,8 @@ export const projects: Project[] = [
     tags: ['Garden', 'Landscape', 'Residential'],
   },
  {
-    id: 'trade-coffee',
-    title: 'Trade Coffee House',
+    id: 'trade-offcie',
+    title: 'Trade offcie House',
     category: 'interior',
     year: 2024,
     location: 'Ho Chi Minh City, Vietnam',
