@@ -15,10 +15,10 @@ export const projects: Project[] = [
     id: 'quannhaminh-coffe',
     title: 'Quán Nhà Mình - coffe',
     category: 'architecture',
-    year: 2026,
-    location: 'daklak, Vietnam',
+    year: 2019,
+    location: '6/1A Thanh Da,Binh Thanh, HCM Vietnam',
     description:
-      'A contemporary villa seamlessly blending natural materials with modern geometric forms. Expansive glass facades invite panoramic mountain views, while layered terraces echo the surrounding hillside topography.',
+      'Ẩn mình trong một con hẻm xanh mát, Quán Nhà Mình là nơi bạn có thể tạm rời xa nhịp sống vội vã để tận hưởng những khoảnh khắc thật chậm. Không ồn ào, không cầu kỳ – chỉ là một không gian ấm cúng, gần gũi như chính ngôi nhà của bạn.Quán được thiết kế theo phong cách tối giản, kết hợp giữa,Gỗ tự nhiên ấm áp,Tường trắng nhẹ nhàng,Điểm nhấn xanh từ cây cối,Bên ngoài là khu ngồi thư giãn dưới tán cây, đón gió và ánh nắng. Bên trong là không gian yên tĩnh, phù hợp để làm việc, đọc sách hoặc trò chuyện nhẹ nhàng.,Quán Nhà Mình là dự án được Team Orange Moon lên ý tưởng cho đến bước triển khai nội thất rất kĩ càng, từng bước đồng hành với anh Chủ kĩ tính để giữ cho không gian quán tinh gọn nhất từ những gam màu xanh Mint nổi bật, những khoảng trắng tinh khôi dung hòa với chất nội thất được thiết kế riêng từ gỗ tự nhiên. Tất cả đem đến cảm giác "thiên nhiên" một cách tự nhiên nhất.',
     coverImage: 'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR1/2879869905933511043.jpg',
     images: [
       'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR1/2879869905933511043.jpg',
@@ -42,7 +42,7 @@ export const projects: Project[] = [
     location: 'Ho Chi Minh City, Vietnam',
     description:
       'A warm, curated coffee-house interior inspired by artisanal craft. Raw concrete walls are softened by warm timber shelving, woven lighting fixtures and lush indoor greenery.',
-    coverImage: 'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR2/153821557050924683941.jpg',
+    coverImage: 'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR2/335155111230990558042.jpg',
     images: [
       'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR2/153821557050924683941.jpg',
       'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR2/257486186297481618337.jpg',
@@ -62,7 +62,7 @@ export const projects: Project[] = [
     location: 'Da Lat, Vietnam',
     description:
       'A landscape design centred on a productive garden. Terraced planting beds, stone pathways and a central reflecting pool create a meditative outdoor living experience.',
-    coverImage: 'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR3/430651380104758283713.jpg',
+    coverImage: 'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR3/59234823880241868419.jpg',
     images: [
       'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR3/430651380104758283713.jpg',
       'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR3/126432848262681605212.jpg',
@@ -101,7 +101,7 @@ export const projects: Project[] = [
     location: 'Ho Chi Minh City, Vietnam',
     description:
       'A warm, curated coffee-house interior inspired by artisanal craft. Raw concrete walls are softened by warm timber shelving, woven lighting fixtures and lush indoor greenery.',
-    coverImage: 'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR4/275739352854465505146.jpg',
+    coverImage: 'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR4/275739352854465505147.jpg',
     images: [
       'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR4/275739352854465505146.jpg',
       'https://raw.githubusercontent.com/truongnhac/furniture-web/master/image/CTR4/190549784219367214343.jpg',

@@ -78,8 +78,12 @@ export default function ProjectDetailPage() {
           <div>
             <p className="text-xs tracking-widest uppercase text-stone-400 mb-1">Category</p>
             <p className="text-stone-700 capitalize">{project.category}</p>
+            
           </div>
         </div>
+          <div>
+                  
+          </div>
       </div>
 
       {/* Gallery */}
